@@ -12,3 +12,8 @@ It basically follows the original DIY version, with a few modifications of my ow
 - A speaker kill switch has been added.
 - This also uses Kailh Choc V1 for the keycaps because of my personal taste.
 - You can change any specification by yourself if you have access to Kicad.
+
+The images below are prototype versions and differ from the actual data.
+<img src="https://raw.githubusercontent.com/ijnekenamay/picotracker_alt-pcb/main/images/1.jpg" width="400"><img src="https://raw.githubusercontent.com/ijnekenamay/picotracker_alt-pcb/main/images/2.jpg" width="400">
+
+<img src="https://raw.githubusercontent.com/ijnekenamay/picotracker_alt-pcb/main/images/3.png" width="400">
