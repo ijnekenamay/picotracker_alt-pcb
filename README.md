@@ -2,7 +2,9 @@
 
 This project is about [democloid picoTracker's](https://github.com/democloid/picoTracker/) alternative PCB.
 It basically follows the original DIY version, with a few modifications of my own. They are described below.
+
 <img src="https://raw.githubusercontent.com/ijnekenamay/picotracker_alt-pcb/main/images/6.png" width="400"><img src="https://raw.githubusercontent.com/ijnekenamay/picotracker_alt-pcb/main/images/7.png" width="400">
+
 ## Feature
 
 - The two PCBs act as an enclosure by sandwiching the components together.
