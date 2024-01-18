@@ -13,7 +13,7 @@ It basically follows the original DIY version, with a few modifications of my ow
 - This also uses Kailh Choc V1 for the keycaps because of my personal taste.
 - You can change any specification by yourself if you have access to Kicad.
 
-##BOM
+## BOM
 | Value | Quantity | info |
 | ---- | ---- | ---- |
 | Pimoroni Pico LiPo 16MB | 1 | [URL](https://shop.pimoroni.com/products/pimoroni-pico-lipo) |
