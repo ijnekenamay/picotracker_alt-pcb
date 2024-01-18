@@ -37,6 +37,7 @@ It basically follows the original DIY version, with a few modifications of my ow
 | 220R | 1 | 1608 |
 | 470R| 1 | 1608 |
 | 6N138 | 1 | DIP-8 SMD(Just cut off the normal DIP8 leg.) |
+| lipo battery | 1 | I use 1200mAh and need less recharging. |
 
 
 
