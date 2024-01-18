@@ -31,6 +31,7 @@ It basically follows the original DIY version, with a few modifications of my ow
 | Micro speaker | 2 | [URL](https://akizukidenshi.com/catalog/g/gP-12494/)  |
 | 2GANG POT(A100K) | 1 | This value needs to be verified as correct. |
 | SMD Slide Switch | 1 | on-on [The footprint uses a 6-pin one.](https://akizukidenshi.com/download/ds/switronic/IS-2245S-G.PDF) |
+| PJ-311 3.5mm Stereo Jack | 2 |  |
 | 1n4148| 1 | SOD-323 |
 | 47R | 2 | 1608 |
 | 220R | 1 | 1608 |
