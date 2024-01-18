@@ -37,7 +37,7 @@ It basically follows the original DIY version, with a few modifications of my ow
 | 220R | 1 | 1608 |
 | 470R| 1 | 1608 |
 | 6N138 | 1 | DIP-8 SMD(Just cut off the normal DIP8 leg.) |
-| 2GANG POT(A100K) | 1 | This value needs to be verified as correct. |
+
 
 
 The images below are prototype versions and differ from the actual data.
