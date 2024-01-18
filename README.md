@@ -14,6 +14,7 @@ It basically follows the original DIY version, with a few modifications of my ow
 - A speaker kill switch has been added.
 - This also uses Kailh Choc V1 for the keycaps because of my personal taste.
 - You can change any specification by yourself if you have access to Kicad.
+- [See image for values of components around MIDI.](https://raw.githubusercontent.com/ijnekenamay/picotracker_alt-pcb/main/images/MIDI_resistor_value.jpg)
 
 ## BOM
 | Value | Quantity | info |
