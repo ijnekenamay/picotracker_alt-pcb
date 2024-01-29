@@ -1,6 +1,6 @@
 # Picotracker Alt-PCB
 
-**No one has manufactured this board yet! Please do so at your own risk.**
+**It appears that software volume will be implemented sooner than expected. I am working on removing the POT circuitry so this board should not be manufactured!**
 
 This project is about [democloid picoTracker's](https://github.com/democloid/picoTracker/) alternative PCB.
 It basically follows the original DIY version, with a few modifications of my own. They are described below.
