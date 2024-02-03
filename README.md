@@ -39,6 +39,7 @@ It basically follows the original DIY version, with a few modifications of my ow
 | 6N138 | 1 | DIP-8 SMD(Just cut off the normal DIP8 leg.) |
 | lipo battery | 1 | I use 1200mAh and need less recharging. |
 | other | * | Other pin headers and sockets. We need standoff bolts, nuts, screws, and lots of them. |
+-It is recommended to use short pin headers and to solder directly without using sockets. At the very least, the effective depth of the 3D printer back panel is only 11 mm, which would interfere with the use of pin sockets. (but i wanted to go thin)
 
 
 
