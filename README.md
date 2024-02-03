@@ -1,6 +1,6 @@
 # Picotracker Alt-PCB
 
-**Do not manufacture yet as it is still being adjusted.**
+**This PCB has not been manufactured yet, but I think it will work.**
 
 This project is about [democloid picoTracker's](https://github.com/democloid/picoTracker/) alternative PCB.
 It basically follows the original DIY version, with a few modifications of my own. They are described below.
