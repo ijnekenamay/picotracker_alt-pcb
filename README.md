@@ -22,7 +22,7 @@ It basically follows the original DIY version, with a few modifications of my ow
 ## BOM
 | Value | Quantity | info |
 | ---- | ---- | ---- |
-| Pimoroni Pico LiPo 16MB | 1 | [URL](https://shop.pimoroni.com/products/pimoroni-pico-lipo) |
+| Pimoroni Pico LiPo 16MB | 1 | [URL](https://shop.pimoroni.com/products/pimoroni-pico-lipo)　 [URL(Japan only)](https://akizukidenshi.com/catalog/g/g116997/)  |
 | ILI9341 3.2" display | 1 | [URL](https://www.aliexpress.us/item/3256802819098352.html) |
 | GY-PCM5102 DAC module | 1 | [URL](https://www.aliexpress.us/item/3256802711963831.html) | 
 | Adafruit Micro SD SPI or SDIO Card Breakout Board | 1 | [URL](https://www.adafruit.com/product/4682) | 
@@ -39,7 +39,8 @@ It basically follows the original DIY version, with a few modifications of my ow
 | 6N138 | 1 | DIP-8 SMD(Just cut off the normal DIP8 leg.) |
 | lipo battery | 1 | I use 1200mAh and need less recharging. |
 | other | * | Other pin headers and sockets. We need standoff bolts, nuts, screws, and lots of them. |
--It is recommended to use short pin headers and to solder directly without using sockets. At the very least, the effective depth of the 3D printer back panel is only 11 mm, which would interfere with the use of pin sockets. (but i wanted to go thin)
+
+It is recommended to use short pin headers and to solder directly without using sockets. At the very least, the effective depth of the 3D printer back panel is only 11 mm, which would interfere with the use of pin sockets. (but i wanted to go thin)
 
 
 
