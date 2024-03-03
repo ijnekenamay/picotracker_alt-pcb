@@ -3,6 +3,7 @@
 **The actual production resulted in operation!**
 
 This project is about [democloid picoTracker's](https://github.com/democloid/picoTracker/) alternative PCB.
+Inexpensive handheld devices can be built to run LittleGPTracker(a.k.a piggytracker).
 It basically follows the original DIY version, with a few modifications of my own. They are described below.
 
 [You can see it in motion here.](https://www.instagram.com/p/C2BvngaruZN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
