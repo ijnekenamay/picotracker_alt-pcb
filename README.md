@@ -7,7 +7,7 @@ It basically follows the original DIY version, with a few modifications of my ow
 
 [You can see it in motion here.](https://www.instagram.com/p/C2BvngaruZN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
-<img src="https://raw.githubusercontent.com/ijnekenamay/picotracker_alt-pcb/main/images/6.png" width="400"><img src="https://raw.githubusercontent.com/ijnekenamay/picotracker_alt-pcb/main/images/7.png" width="400">
+<img src="https://raw.githubusercontent.com/ijnekenamay/picotracker_alt-pcb/main/images/picotracker-front.jpg" width="400"><img src="https://raw.githubusercontent.com/ijnekenamay/picotracker_alt-pcb/main/images/picotracker-back.jpg" width="400">
 
 ## Feature
 
