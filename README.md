@@ -1,6 +1,6 @@
 # Picotracker Alt-PCB
 
-**The actual production resulted in operation!**
+**There could be a major mistake around MIDI!!**
 
 This project is about [democloid picoTracker's](https://github.com/democloid/picoTracker/) alternative PCB.
 Inexpensive handheld devices can be built to run LittleGPTracker(a.k.a piggytracker).
