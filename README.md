@@ -20,7 +20,6 @@ It basically follows the original DIY version, with a few modifications of my ow
 - You can change any specification by yourself if you have access to Kicad.
 - [See image for values of components around MIDI.](https://raw.githubusercontent.com/ijnekenamay/picotracker_alt-pcb/main/images/MIDI_resistor_value.jpg)
 - I designed a back panel that could be output with a 3D printer because I felt the microspeaker needed box resonance. Also, if you would like to try it, please see the STL data. Feedback is welcome.
-- We highly recommend using [JUSTWAY https://www.justway.com/](https://www.justway.com/) for your 3D printing requests. They specialize in high definition printing without distortion!
 - <img src="https://raw.githubusercontent.com/ijnekenamay/picotracker_alt-pcb/main/images/3d_BP.png" width="400">
 
 ## BOM
