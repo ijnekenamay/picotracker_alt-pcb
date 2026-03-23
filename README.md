@@ -1,6 +1,7 @@
 # Picotracker Alt-PCB
 
 ~~**Do not fabricate! There could be a major mistake around MIDI!!**~~
+
 **[Alex fixed it!](https://github.com/ijnekenamay/picotracker_alt-pcb/pull/2) We should be able to go ahead with production now.**
 
 This project is about [democloid picoTracker's](https://github.com/democloid/picoTracker/) alternative PCB.
